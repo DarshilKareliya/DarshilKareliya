@@ -1,6 +1,6 @@
 <!-- Gradient header using SVG to add color splash -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5F6D&background=FFFFFF00&center=true&vCenter=true&width=440&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Darshil+Kareliya;AI+%7C+ML+Student+%7C+Python+Dev;Web+%26+Backend+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5F6D&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Darshil+Kareliya;AI+%7C+ML+Student+%7C+Python+Dev;Web+%26+Backend+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
